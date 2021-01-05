@@ -1,6 +1,7 @@
 
 
 In the project directory, you can run:
+In the project directory, you can run: make sure to run ### `npm install` to install all the neccesary packages
 
 ### `npm start`
 
@@ -13,4 +14,4 @@ Node.js , express.js will be used for the backend and MongoDB will be used as th
 
 you can also use it for your own projects but make sure you always give me some credit :rocket: 
 
-by: Joe React
+by: Joe React :rocket:
