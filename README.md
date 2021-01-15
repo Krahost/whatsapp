@@ -1,4 +1,9 @@
+this is the demo link : https://whatsapp-clone-c2061.firebaseapp.com
 
+make sure to login with your gmail mail account
+
+
+![alt text](http://portal.cedarwebsolutions.com/whatsapp.jpg)
 
 In the project directory, you can run:
 In the project directory, you can run: make sure to run ### `npm install` to install all the neccesary packages
